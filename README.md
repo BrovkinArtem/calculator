@@ -6,4 +6,4 @@
 
 реализация 'Калькулятора'
 
-_Copyright &copy; 2021, Brovkin Artem_ , UnaQu666_
+_Copyright &copy; 2021, Brovkin Artem_ , UnaQu666
